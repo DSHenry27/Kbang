@@ -1,3 +1,3 @@
 # Khánh Băng 🌸🌹
 
-[👉 web](https://dshenry27.github.io/kbang/)
+[👉 web](https://dshenry27.github.io/Kbang/)
